@@ -1,0 +1,229 @@
+﻿#body1{
+    background-image: url(./osman-rana-dI9KhXi0ooE-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+ul li
+{
+     display: inline;
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+    margin-left: 40px;
+    font-size: 25px;
+    text-shadow: 2px 2px 2px red;
+}
+
+ul li a:hover{
+    color: black;
+    text-shadow: 3px 3px 3px black;
+}
+
+#img{
+    height: 100px;
+    width: 100px;
+}
+
+#last{
+     margin-left: 150px;
+}
+
+h1{
+    text-align :left;
+    margin-left: 250px;
+}
+
+.group{
+    margin-top: 100px;
+}
+
+.text{
+    font-size: 80px;
+    font-weight: lighter;
+    line-height: 50px;
+
+}
+.style{
+    font-size: 60px;
+    color: red;
+    font-weight: bold;
+    height: 100px;
+    font-family: verdana;
+    line-height: 100px;
+
+}
+
+p{
+    margin-left: 250px;
+    font-size: 20px;
+    font-family: verdana;
+    color: black;
+    text-shadow: 2px 2px 2px aqua;
+}
+
+#btn{
+    margin-left: 250px;
+    border-radius: 0%;
+    width: 150px;
+
+}
+
+#obtn{
+    margin-left: 50px;
+    border-radius: 0%;
+    width: 150px;
+
+}
+
+.body2{
+    background-image: url(./dominik-schroder-FIKD9t5_5zQ-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+
+}
+
+#heading{
+    padding-top: 100px;
+}
+
+.sh{
+    padding-left: 20%;
+    font-size: 60px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 0%;
+    font-weight: lighter;
+
+}
+
+
+
+.para{
+    padding-top: 100px;
+}
+
+#btn1{
+        height: 300px;
+        width: 300px;
+        border-radius: 0%; 
+        margin-top: 50px;
+        margin-left: 100px;
+}
+
+.link{
+    color: red;
+}
+
+#btn2{
+    border-radius: 0%;
+    width: 200px;
+    height: 50px;
+    align-content: center;
+    margin-left: 40%;
+}
+
+#btn3{
+    border-radius: 0%;
+    width: 200px;
+    height: 50px;
+    align-content: center;
+    margin-left: 45%;
+}
+
+.body3{
+    background-image: url(./elena-joland-mjeQon0Mh_Q-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+
+.img3{
+    
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.img4{
+    
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+.body4{
+    background-image: url(./kklldd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1200px;
+
+}
+
+.bdy4{
+    padding-top: 10%;
+    margin-left: 35%;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rd{
+    font-weight: bolder;
+
+}
+
+h3{
+    margin-left: 250px;
+    text-shadow: 2px 2px 2px red;
+
+}
+
+
+
+
+#arrow{
+     margin-left: 250px;
+
+}
+
+#arr{
+    margin-left: 10px;
+}
+
+.body5{
+    background-image: url(./mads-schmidt-rasmussen-6YmzwamGzCg-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+    
+}
+
+.body6{
+    /* background-image: linear-gradient(black,white,black); */
+    background-color: black;
+    height: 500px;
+}
+
+.img6{
+
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+#footer{
+    margin-left: 150px;
+}
+
+#white{
+    color: white;
+}
+#wht{
+    color: black;
+}
+
+.row{
+    color: white;
+}
